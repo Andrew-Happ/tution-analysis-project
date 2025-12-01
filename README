@@ -1,0 +1,30 @@
+# College Tuition and Early-Career Pay Analysis
+
+## Overview
+This project analyzes the relationship between college tuition costs (in-state and out-of-state) and early-career salary potential. The goal is to explore whether tuition correlates with early career earnings and whether private colleges charge significantly more than public colleges.
+
+## Skills Demonstrated
+- Data cleaning and merging using Python and SQL
+- Regression analysis using statsmodels (OLS)
+- Data manipulation with pandas
+- Exploratory data analysis and visualization
+- Interpretation of statistical results
+
+## Files in this Repository
+- `notebook.ipynb` – The Jupyter notebook containing the full workflow: data cleaning, analysis, and visualizations
+- `archive.zip` – Contains the original tuition datasets needed to run the notebook
+
+## How to Use
+1. Download or clone this repository.
+2. Extract the `archive.zip` file into the same directory as the notebook.
+3. Open `notebook.ipynb` in Jupyter Notebook.
+4. Run all cells to reproduce the analysis.
+
+## Data Sources
+- Tuition dataset: [Kaggle link if available]
+- Salary dataset: [Payscale link if available]
+
+## Key Insights
+- Private colleges have significantly higher tuition than public colleges.
+- Higher early-career pay potential is associated with higher tuition costs.
+- The analysis demonstrates the application of regression models and data analysis techniques to real-world datasets.
